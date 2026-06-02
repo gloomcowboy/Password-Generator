@@ -1,12 +1,12 @@
-const chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()"
+const chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()+-_><|~^"
 
 function generatePassword(length = 12) {
     const array = new Uint8Array(12);
     crypto.getRandomValues(array)
     let password = ""
-
-    for (let i of array) {
-        password += chars[i % chars.length]
+    for (let i = 0; i < length; i++) {
+        const randomIndex = array[i] % chars.length
+        password += chars[randomIndex]
     }
     return password
 }

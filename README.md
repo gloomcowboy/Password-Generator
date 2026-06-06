@@ -1,8 +1,5 @@
 # Password Generator — Secure & Unbiased
 
-> *A simple, secure, and unbiased JavaScript password generator for personal use. Perfect for changing passwords regularly and keeping them strong.*
-
----
 - Uses **unbiased sampling** to ensure **each character has equal chance `const limit = Math.floor(256 / chars.length) * chars.length`
 - default password length is 12 (You can change this in the code)
 ---

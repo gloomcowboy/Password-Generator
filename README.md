@@ -1,6 +1,6 @@
 # Password Generator — Secure & Unbiased
 
-- Uses **unbiased sampling** to ensure **each character has equal chance `const limit = Math.floor(256 / chars.length) * chars.length`
+- Uses **unbiased sampling** to ensure each character has equal chance `const limit = Math.floor(256 / chars.length) * chars.length; // 249`
 - default password length is 12 (You can change this in the code)
 ---
 

@@ -31,19 +31,9 @@ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()+-_><|~^
 
 ---
 
-
----
-
-✅ **Ready to use — just copy & paste!**
-
-
----
-
-
 ## Security
 - 76 bits of entropy at default length (12 chars)
 - Increase length for stronger passwords
-
 
 ---
 

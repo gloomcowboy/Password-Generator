@@ -23,17 +23,6 @@ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()+-_><|~^
 
 ---
 
-## 🛡️ Security Notes
-
-⚠️ **This is for personal use only** — do not use it for production systems or sensitive data without proper encryption.
-
-✅ For production, consider:
-- Using a **salted hash** (e.g., bcrypt)
-- Using a **password manager**
-- Using a **secure backend** with proper key management
-
----
-
 ## How to use
 - Clone repo or download ZIP
 - Open index.html

@@ -34,15 +34,12 @@ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()+-_><|~^
 
 ---
 
-## License
-
-MIT — Feel free to use, modify, or share!
-
----
-
 ## How to use
 - Clone repo or download ZIP
-- Open index.html 
+- Open index.html
+
+<img width="724" height="620" alt="Screenshot 2026-06-06 121340" src="https://github.com/user-attachments/assets/08836fa6-62f5-4b8d-8f64-4aad1245a6db" />
+
 ---
 
 
@@ -58,6 +55,12 @@ MIT — Feel free to use, modify, or share!
 - 76 bits of entropy at default length (12 chars)
 - Increase length for stronger passwords
 
+
+---
+
+## License
+
+MIT — Feel free to use, modify, or share!
 
 ---
 

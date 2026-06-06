@@ -6,14 +6,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #5c1180; /* Dark background */
+    background-color: #684877; /* Dark background */
     font-family: Arial, sans-serif;
-    color: #e0e0e0;
+    color: #14b814;
 }
 
 /* Main container */
 .password-container {
-    background-color: #1e1e1e;
+    background-color: #eaec66;
     border-radius: 20px; 
     padding: 2rem;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
@@ -30,8 +30,8 @@ h1 {
 
 /* Button */
 button {
-    background-color: #fa18ef;
-    color: rgb(194, 151, 151);
+    background-color: #895df0;
+    color: rgb(240, 170, 78);
     border: none;
     padding: 0.75rem 1.5rem;
     font-size: 1rem;
@@ -50,7 +50,7 @@ p {
     font-size: 1.2rem;
     margin: 1rem 0;
     padding: 0.75rem 1.5rem;
-    background-color: #2a2a2a;
+    background-color: #a06464;
     border-radius: 8px;
-    color: #e20909;
+    color: #65e960;
 }
